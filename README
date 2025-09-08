@@ -1,0 +1,27 @@
+#  2048 Game
+A classic **2048 puzzle game** built using **HTML, CSS, and JavaScript**.  
+The goal is simple: slide the numbered tiles on a grid to combine them and create the **2048 tile**!
+
+---
+
+##  Features
+- Smooth animations
+- Simple & clean design
+- Fully playable in browser
+- Responsive layout
+
+## 🕹️ How to Play
+- Use your **arrow keys** (↑ ↓ ← →) to move the tiles.  
+- When two tiles with the same number touch, they **merge into one**.  
+- Your goal is to reach **2048**.  
+- Keep playing to try for higher scores!
+
+---
+
+## 🛠️ Tech Stack
+- **HTML5** – structure  
+- **CSS3** – styling  
+- **JavaScript (ES6)** – game logic  
+
+---
+
